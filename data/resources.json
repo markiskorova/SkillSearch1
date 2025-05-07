@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to Go",
+    "tags": ["go", "backend"],
+    "description": "Learn the basics of Go language."
+  },
+  {
+    "id": 2,
+    "title": "Building APIs with .NET Core",
+    "tags": ["dotnet", "api", "backend"],
+    "description": "Step-by-step guide to building RESTful APIs."
+  },
+  {
+    "id": 3,
+    "title": "Understanding ElasticSearch",
+    "tags": ["elasticsearch", "search", "analytics"],
+    "description": "Core concepts of search indexing and queries."
+  }
+]
